@@ -1,1 +1,1 @@
-alert("Hello tout le monde !")
+alert("Hello les amis !")
